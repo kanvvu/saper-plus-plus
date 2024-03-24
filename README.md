@@ -4,7 +4,7 @@ Minesweeper written in C++ using SDL2
 
 <br>
 
-![](gif/saper.gif)
+![](gif/Saper.gif)
 
 ## Requirements
 
